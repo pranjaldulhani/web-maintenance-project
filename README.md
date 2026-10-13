@@ -2,6 +2,10 @@
 
 Day 14 task: Maintain and update a simple web application.
 
+## Links
+- GitHub Repository: https://github.com/pranjaldulhani/web-maintenance-project
+- Live Site (GitHub Pages): https://pranjaldulhani.github.io/web-maintenance-project/
+
 ## 1. Bug Fixed
 - Image bahut badi thi aur page responsive nahi tha.
 - Fix: CSS me width, max-width aur height: auto lagayi.
@@ -20,4 +24,9 @@ Day 14 task: Maintain and update a simple web application.
 
 ## 5. Deployment
 - Code GitHub par push kiya gaya hai.
-- Live link (GitHub Pages): <yahan baad me link paste karna>
+- Site GitHub Pages par deploy ki gayi hai.
+
+## How to Run
+1. Project folder VS Code me kholo.
+2. index.html par right-click karke "Open with Live Server" chuno.
+3. Tests chalane ke liye terminal me `npm test` likho.
