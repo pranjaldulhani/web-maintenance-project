@@ -1,0 +1,16 @@
+{
+  "name": "web-testing-project",
+  "version": "1.0.0",
+  "description": "Testing and debugging a simple web application",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}

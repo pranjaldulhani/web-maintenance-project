@@ -1,0 +1,14 @@
+body { font-family: Arial, sans-serif; margin: 20px; }
+
+img {
+  display: block;
+  margin-top: 10px;
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  border-radius: 10px;
+}
+body.dark {
+  background: #222;
+  color: #fff;
+}
